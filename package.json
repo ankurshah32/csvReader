@@ -1,0 +1,14 @@
+{
+  "name": "csv_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readCSV.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "csv-parser": "2.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
